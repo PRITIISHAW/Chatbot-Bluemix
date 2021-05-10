@@ -1,2 +1,2 @@
 # Chatbot-Bluemix
-Coursera Project to build Chatbot in IBM Bluemix
+Chatbot built in IBM Bluemix
